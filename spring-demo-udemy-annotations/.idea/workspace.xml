@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdcdca67-f702-4769-9bde-2f2f1d4cf3cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoYLmJrQHM4NGqxOhvefm0R6QD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.springdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Programming\Java" />
+      <recent name="I:\Programming\Java\spring-demo-udemy-annotations\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SwimJavaConfigDemoApp">
+    <configuration name="AnnotationBeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.springdemo.AnnotationBeanScopeDemoApp" />
+      <module name="spring-demo-udemy-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.springdemo.AnnotationDemoApp" />
+      <module name="spring-demo-udemy-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.springdemo.JavaConfigDemoApp" />
+      <module name="spring-demo-udemy-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwimJavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.springdemo.SwimJavaConfigDemoApp" />
+      <module name="spring-demo-udemy-annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwimJavaConfigDemoApp" />
+        <item itemvalue="Application.JavaConfigDemoApp" />
+        <item itemvalue="Application.AnnotationDemoApp" />
+        <item itemvalue="Application.AnnotationBeanScopeDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdcdca67-f702-4769-9bde-2f2f1d4cf3cb" name="Default Changelist" comment="" />
+      <created>1587403359338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587403359338</updated>
+      <workItem from="1587403360657" duration="3903000" />
+      <workItem from="1587486258152" duration="4360000" />
+      <workItem from="1588000647257" duration="976000" />
+      <workItem from="1590519970290" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1201" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1587490615553">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1201" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587490615553" />
+    <state x="971" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587405969363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="971" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587405969363" />
+    <state width="906" height="280" key="GridCell.Tab.0.bottom" timestamp="1587491280163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587491280163" />
+    <state width="906" height="280" key="GridCell.Tab.0.center" timestamp="1587491280163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="280" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587491280163" />
+    <state width="906" height="280" key="GridCell.Tab.0.left" timestamp="1587491280163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="280" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587491280163" />
+    <state width="906" height="280" key="GridCell.Tab.0.right" timestamp="1587491280163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="280" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587491280163" />
+    <state x="515" y="31" key="SettingsEditor" timestamp="1588000803674">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="515" y="31" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588000803674" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1587490645851">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1587490645851" />
+    <state x="1043" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1587486277643">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1043" y="329" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587486277643" />
+    <state x="906" y="429" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587488289128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="906" y="429" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1587488289128" />
+    <state x="1059" y="164" key="spring file set editor" timestamp="1587403575139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1059" y="164" key="spring file set editor/0.0.1920.1080@0.0.1920.1080" timestamp="1587403575139" />
+  </component>
+</project>

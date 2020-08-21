@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16a4253f-a88e-4e45-a121-b70a70a069e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hb-05-many-to-many: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfuWl7hCnthtphVn5h5UvxII1g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.demo" />
+      <recent name="com.company.hibernate.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Programming\Java" />
+      <recent name="I:\Programming\Java\hb-03-one-to-many\src\com\company\demo" />
+      <recent name="I:\Programming\Java\hb-01-one-to-one-uni\src" />
+      <recent name="I:\Programming\Java\hb-01-one-to-one-uni\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeleteMaryStudentDemo">
+    <configuration name="AddCoursesForMaryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.demo.AddCoursesForMaryDemo" />
+      <module name="hb-05-many-to-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCourseAndStudentsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.demo.CreateCourseAndStudentsDemo" />
+      <module name="hb-05-many-to-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteMaryStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.demo.DeleteMaryStudentDemo" />
+      <module name="hb-05-many-to-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePacmanCourseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.demo.DeletePacmanCourseDemo" />
+      <module name="hb-05-many-to-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetCoursesForMaryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.demo.GetCoursesForMaryDemo" />
+      <module name="hb-05-many-to-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CreateCourseAndStudentsDemo" />
+      <item itemvalue="Application.AddCoursesForMaryDemo" />
+      <item itemvalue="Application.GetCoursesForMaryDemo" />
+      <item itemvalue="Application.DeletePacmanCourseDemo" />
+      <item itemvalue="Application.DeleteMaryStudentDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeleteMaryStudentDemo" />
+        <item itemvalue="Application.GetCoursesForMaryDemo" />
+        <item itemvalue="Application.DeletePacmanCourseDemo" />
+        <item itemvalue="Application.AddCoursesForMaryDemo" />
+        <item itemvalue="Application.CreateCourseAndStudentsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16a4253f-a88e-4e45-a121-b70a70a069e8" name="Default Changelist" comment="" />
+      <created>1589035502182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589035502182</updated>
+      <workItem from="1589035503425" duration="2523000" />
+      <workItem from="1589119994409" duration="891000" />
+      <workItem from="1589122510153" duration="1277000" />
+      <workItem from="1589124868563" duration="2540000" />
+      <workItem from="1589205809420" duration="607000" />
+      <workItem from="1589209075561" duration="981000" />
+      <workItem from="1589215359263" duration="2164000" />
+      <workItem from="1589222234228" duration="1943000" />
+      <workItem from="1589293803068" duration="625000" />
+      <workItem from="1589297235656" duration="12000" />
+      <workItem from="1589297265073" duration="2000" />
+      <workItem from="1590000985076" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589222374026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="450" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589222374026" />
+    <state x="1201" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1589222823348">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1201" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1589222823348" />
+    <state x="1161" y="246" key="FileChooserDialogImpl" timestamp="1589210056512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1161" y="246" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1589210056512" />
+    <state width="906" height="279" key="GridCell.Tab.0.bottom" timestamp="1589224178241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1589224178241" />
+    <state width="906" height="279" key="GridCell.Tab.0.center" timestamp="1589224178241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="279" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1589224178241" />
+    <state width="906" height="279" key="GridCell.Tab.0.left" timestamp="1589224178241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="279" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1589224178241" />
+    <state width="906" height="279" key="GridCell.Tab.0.right" timestamp="1589224178241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="906" height="279" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1589224178241" />
+    <state x="1043" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1589293818583">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1043" y="329" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1589293818583" />
+  </component>
+</project>
